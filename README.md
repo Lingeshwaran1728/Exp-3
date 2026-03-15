@@ -31,7 +31,7 @@ END
 
 
 
-
+![alt text](square.png)
 
 
 
@@ -72,6 +72,14 @@ END
 
 
 ## OUTPUT
+
+
+
+![alt text](cube.png)
+
+
+
+
 
 ## RESULT
 Thus, the cube of the given data is calculated using 8051 Keil.
